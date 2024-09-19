@@ -3,6 +3,7 @@ The Playfair cipher is a manual symmetric encryption technique that encrypts pai
 
 # Input
        %d = n (however many ciphers you want to encrypt)
+       
        %s = key 
        %s = Plaintext 
        ...
