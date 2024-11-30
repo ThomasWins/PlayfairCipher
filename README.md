@@ -11,4 +11,4 @@ The Playfair cipher is a manual symmetric encryption technique that encrypts pai
 # Notes
 Copying and pasting more than 3 Playfair samples simultaneously causes the ciphers to overlap the inputting code. Putting 1 in at a time fixes this problem. (Still works inputting any n)
 
-This Code works to encrypt any message you give it up to 100 characters. Change MAX_CIPHER to however long you want your cipher to be.
+This code works to encrypt any message you give up to 100 characters. Change MAX_CIPHER to however long you want your cipher to be.
